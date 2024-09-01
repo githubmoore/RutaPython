@@ -2,6 +2,7 @@
 =====================================
 
 **¡Bienvenido!**
+:wave: :snake:
 
 Este proyecto tiene como objetivo brindar una ruta de aprendizaje para principiantes en Python, con recursos y oportunidades para mejorar tus habilidades en programación.
 
@@ -37,9 +38,11 @@ Este proyecto tiene como objetivo brindar una ruta de aprendizaje para principia
 * Si tienes sugerencias o recursos adicionales, no dudes en hacérmelo saber
 * Puedes contribuir con correcciones o mejoras al contenido
 
-**¡Comencemos!**
+**Licencia**
+Apache 2.0 License
 
-Empecemos esta ruta de aprendizaje juntos. ¡Buena suerte y diviértete!
+**¡Comencemos!**
+:rocket: Empecemos esta ruta de aprendizaje juntos. ¡Buena suerte y diviértete!
 
 <a href="https://www.python.org/">
   <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -47,3 +50,8 @@ Empecemos esta ruta de aprendizaje juntos. ¡Buena suerte y diviértete!
   </svg>
   Python
 </a>
+
+**Badges**
+
+[![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
